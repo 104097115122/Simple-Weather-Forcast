@@ -6,7 +6,7 @@
     "display": "browser",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/Simple-Weather-Forcast/",
     "icons": [
         {
             "src" : "./logo.png",
