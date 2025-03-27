@@ -1,0 +1,17 @@
+{
+    "name": "Weather Forcast",
+    "short_name": "Forcast",
+    "theme_color": "#007bff",
+    "background_color": "#f0f8ff",
+    "display": "browser",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icon": [
+        {
+            "src" : "./logo.png",
+            "size" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+  }
