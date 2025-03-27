@@ -1,5 +1,5 @@
 {
-    "name": "Weather Forcast",
+    "name": "Weather    Forcast",
     "short_name": "Forcast",
     "theme_color": "#007bff",
     "background_color": "#f0f8ff",
@@ -10,7 +10,7 @@
     "icons": [
         {
             "src" : "./logo.png",
-            "size" : "512x512",
+            "sizes" : "512x512",
             "type" : "image/png"
         }
     ]
